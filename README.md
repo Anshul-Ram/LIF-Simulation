@@ -12,6 +12,6 @@ Throughout this investigation I tried to find the firing rate by simulating a ne
 
 ### A comparison of the theoretical and simulated firing rates:
 
-![known-2.png](known.png)
+![known-2.png](known-2.png)
 
 The approximation of the firing rates are only accurate in certain ranges. And in the middle segment the approximations break down.
